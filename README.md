@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> Gabriel Bruno De Melo</h1>
 <br />
-<h3 > Graduação Da Gestão Tecnologia Da Informação </h3 >
+<h3 > Graduação --> Gestão Tecnologia Da Informação </h3 >
 <br />
 📫 E-mail: Gbmfortinho@gmail.com.br
   
