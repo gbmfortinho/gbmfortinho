@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 #  BEM VINDO, ao meu perfil GitHub 
 ## Olá, me chamo Gabriel
-🚀Principais tecnologias
+## Principais tecnologias 🚀
 
 <div>
 <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
