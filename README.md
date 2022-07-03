@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<i> BEM VINDO, ao meu Perfil GitHub!!!</i> <br/><br/>
+<i> BEM-VINDO, ao meu Perfil GitHub!!!</i> <br/><br/>
 <i> Olá, me chamo Gabriel.</i> <br/>
 <i> Profissional Gestão da Tecnologia da Informação, com ênfase em análise em soluções de problemas.</i><br/><br/>
 
