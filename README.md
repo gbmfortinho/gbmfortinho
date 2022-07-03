@@ -12,10 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Gabriel Bruno De Melo</h1>
-<br />
-<h3 > Graduação --> Gestão Tecnologia Da Informação </h3 >
-<br />
+## Olá, me chamo Gabriel 
+### Bem vindo ao meu perfil GitHub 👋
+
+##Profissional Gestão da Tecnologia da Informação, com ênfase análise em soluções de 
+problemas.
+
 📫 E-mail: Gbmfortinho@gmail.com.br
   
 #### HABILIDADES
