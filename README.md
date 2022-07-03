@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
     
 </div>
-![Snake animation](https://github.com/gbmfortinho/gbmfortinho/blob/output/github-contribution-grid-snake.svg)
+
  
