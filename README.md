@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 #  BEM VINDO, ao meu perfil GitHub 
 ## Olá, me chamo Gabriel
 #### Profissional Gestão da Tecnologia da Informação, com ênfase em análise em soluções de problemas.
+🚀Principais tecnologias
 
-#### Habilidades Profissional
 <div>
 <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
