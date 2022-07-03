@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Olá, me chamo Gabriel 
-### Bem vindo ao meu perfil GitHub 👋
 
-##Profissional Gestão da Tecnologia da Informação, com ênfase análise em soluções de 
-problemas.
+# Bem vindo ao meu perfil GitHub 👋
+## Olá, me chamo Gabriel 
+
+#### Profissional Gestão da Tecnologia da Informação, com ênfase análise em soluções de problemas.
 
 📫 E-mail: Gbmfortinho@gmail.com.br
   
