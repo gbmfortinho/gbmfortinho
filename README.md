@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 #  BEM VINDO, ao meu perfil GitHub 
 ## Olá, me chamo Gabriel
-#### Profissional Gestão da Tecnologia da Informação, com ênfase em análise em soluções de problemas.
 🚀Principais tecnologias
 
 <div>
