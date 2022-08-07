@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center"> 
-<i>BEM-VINDO, ao meu Perfil GitHub 🚀</i>
+<i>BEM-VINDO, ao meu Perfil GitHub 🚀</i> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" 10px; />
+          
 </div>
 <br/><br/>
 <i> Olá, me chamo Gabriel.</i>
