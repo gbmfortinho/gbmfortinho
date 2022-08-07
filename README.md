@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center"> 
 <i>BEM-VINDO, ao meu Perfil <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=c70000" width="60" height="60"/>
+</div>
 <br/><br/>
 <i> Olá, me chamo Gabriel.</i>
 <br/> <br/> 
