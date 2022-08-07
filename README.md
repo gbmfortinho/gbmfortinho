@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 <div align="center"> 
 <i>BEM-VINDO, ao meu Perfil GitHub 🚀</i> 
    
-            <i class="devicon-adonisjs-original colori"></i>
           
           
 </div>
