@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 <div align="center"> 
 <i>BEM-VINDO, ao meu Perfil GitHub 🚀</i> 
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="50" /> 
+<img style="margin: 10px" 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+           height="50" /> 
           
 </div>
 <br/><br/>
