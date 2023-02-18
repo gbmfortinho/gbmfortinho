@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center"> 
-<i>BEM-VINDO, ao meu Perfil <img  style="margin: 10px" src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=ffffff" width="60" height="60"/>
+<i>BEM-VINDO, <img  style="margin: 10px" src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=ffffff" width="60" height="60"/>
 </div>
 <br/><br/>
 <i> Olá, me chamo Gabriel.</i>
