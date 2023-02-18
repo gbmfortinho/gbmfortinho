@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center"> 
-<i>BEM-VINDO, ao meu Perfil --- > <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=ffffff" width="60" height="60"/>
+<i>BEM-VINDO, ao meu Perfil <img  style="margin: 10px" src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=ffffff" width="60" height="60"/>
 </div>
 <br/><br/>
 <i> Olá, me chamo Gabriel.</i>
 <br/> <br/> 
-<i> Profissional Gestão da Tecnologia da Informação, com ênfase em análise em soluções de problemas 🔭 ❓</i>
+<i> Estudante de Pós-Graduação em Engenharia de Software, Programador especializado no desenvolvimento front-end de aplicações web, utilizando a linguagem de programação javascript. </i>
 <br/><br/>
     <div align="center">  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
