@@ -51,10 +51,3 @@ Analista de Sistemas | Desenvolvedor | Apaixonado por tecnologia e soluções ef
 <div align="center">
 💡 “Sistemas eficientes não nascem por acaso. Eles são o resultado de uma boa análise, design inteligente e código limpo.”
 </div>
-- [Email](gbmfortinho@gmail.com)  
-- [Portfólio / Blog (opcional)](https://gbmfortinho.com)
-</div>
-<br/>
-<div align="center" style="margin: 30px" > 
-💡 “Sistemas eficientes não nascem por acaso. Eles são o resultado de uma boa análise, design inteligente e código limpo.”
-</div>
