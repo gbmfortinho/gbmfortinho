@@ -21,11 +21,10 @@ Analista de Sistemas | Desenvolvedor | Apaixonado por tecnologia e soluções ef
 </div>
 <br/>
 <div align="center"> 
-🎯Sobre mim
-Tenho paixão por transformar requisitos complexos em soluções funcionais e escaláveis. Gosto de atuar desde a análise até a implementação, buscando sempre otimizar processos e agregar valor ao negócio.
+🎯Sobre mim Tenho paixão por transformar requisitos complexos em soluções funcionais e escaláveis. Gosto de atuar desde a análise até a implementação, buscando sempre otimizar processos e agregar valor ao negócio.
 <br/></div>
 <br/>
-<div align="center"> 
+<div align="center" style="margin: 30px" > 
 🧰Tecnologias e Ferramentas
 💻 Linguagens: `Java`, `JavaScript`, `Python`
 🛠️ Ferramentas: `Git`, `Postman`, `Docker`, `Jira`, `Trello`
@@ -34,7 +33,7 @@ Tenho paixão por transformar requisitos complexos em soluções funcionais e es
 📊 Análise: `UML`, `BPMN`, `Power BI`
 </div>
 <br/>
-<div align="center"> 
+<div align="center" style="margin: 30px" > 
 📂Projetos em Destaque
   🔹 [**Sistema de Gestão de Chamados**](#) – Solução completa para suporte técnico (Back-end em Java + Front em Angular)
   🔹 [**Dashboard de Indicadores**](#) – Painel de controle com Power BI e integração com API
@@ -43,12 +42,12 @@ Tenho paixão por transformar requisitos complexos em soluções funcionais e es
 <br/>
 </div>
 <br/>
-<div align="center"> 
+<div align="center" style="margin: 30px" > 
 📫Vamos nos conectar?
 - [Email](gbmfortinho@gmail.com)  
 - [Portfólio / Blog (opcional)](https://gbmfortinho.com)
 </div>
 <br/>
-<div align="center">
+<div align="center" style="margin: 30px" > 
 💡 “Sistemas eficientes não nascem por acaso. Eles são o resultado de uma boa análise, design inteligente e código limpo.”
 </div>
