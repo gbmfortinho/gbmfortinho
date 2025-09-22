@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img  style="margin: 10px" src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=ffffff" width="100" height="100"/>
 <br/><br/>
 <i> Olá, me chamo Gabriel.</i>
-<br/><br/>
+<br/>
 </div>
 
 <div align="center">👨‍💻 Olá! Eu sou GABRIEL BRUNO DE MELO <br/>
@@ -41,11 +41,10 @@ Tenho paixão por transformar requisitos complexos em soluções funcionais e es
 <br/>
 <div align="center"> 
 📂Projetos em Destaque
-- 🔹 [**Sistema de Gestão de Chamados**](#) – Solução completa para suporte técnico (Back-end em Java + Front em Angular)
-- 🔹 [**Dashboard de Indicadores**](#) – Painel de controle com Power BI e integração com API
-- 🔹 [**Automação de Relatórios**](#) – Projeto em Python para automatizar a geração de relatórios mensais
-
-> Acesse meus repositórios para ver mais projetos reais e estudos que venho desenvolvendo 🚀
+  🔹 [**Sistema de Gestão de Chamados**](#) – Solução completa para suporte técnico (Back-end em Java + Front em Angular)
+  🔹 [**Dashboard de Indicadores**](#) – Painel de controle com Power BI e integração com API
+  🔹 [**Automação de Relatórios**](#) – Projeto em Python para automatizar a geração de relatórios mensais
+   Acesse meus repositórios para ver mais projetos reais e estudos que venho desenvolvendo 🚀
 <br/>
 </div>
 <br/>
