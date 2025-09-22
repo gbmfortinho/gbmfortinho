@@ -24,8 +24,8 @@ Analista de Sistemas | Desenvolvedor | Apaixonado por tecnologia e soluções ef
 🎯Sobre mim Tenho paixão por transformar requisitos complexos em soluções funcionais e escaláveis. Gosto de atuar desde a análise até a implementação, buscando sempre otimizar processos e agregar valor ao negócio.
 <br/></div>
 <br/>
-<div align="center" style="margin: 30px" > 
-🧰Tecnologias e Ferramentas
+<div align="center"> 
+🧰Tecnologias e Ferramentas<br/>
 💻 Linguagens: `Java`, `JavaScript`, `Python`
 🛠️ Ferramentas: `Git`, `Postman`, `Docker`, `Jira`, `Trello`
 ⚙️ Bancos de Dados: `MySQL`, `SQL Server`
@@ -33,8 +33,8 @@ Analista de Sistemas | Desenvolvedor | Apaixonado por tecnologia e soluções ef
 📊 Análise: `UML`, `BPMN`, `Power BI`
 </div>
 <br/>
-<div align="center" style="margin: 30px" > 
-📂Projetos em Destaque
+<div align="center"> 
+📂Projetos em Destaque<br/>
   🔹 [**Sistema de Gestão de Chamados**](#) – Solução completa para suporte técnico (Back-end em Java + Front em Angular)
   🔹 [**Dashboard de Indicadores**](#) – Painel de controle com Power BI e integração com API
   🔹 [**Automação de Relatórios**](#) – Projeto em Python para automatizar a geração de relatórios mensais
@@ -42,8 +42,15 @@ Analista de Sistemas | Desenvolvedor | Apaixonado por tecnologia e soluções ef
 <br/>
 </div>
 <br/>
-<div align="center" style="margin: 30px" > 
-📫Vamos nos conectar?
+<div align="center"> 
+📫Vamos nos conectar?<br/>
+- [Email](gbmfortinho@gmail.com)  
+- [Portfólio / Blog (opcional)](https://gbmfortinho.com)
+</div>
+<br/>
+<div align="center">
+💡 “Sistemas eficientes não nascem por acaso. Eles são o resultado de uma boa análise, design inteligente e código limpo.”
+</div>
 - [Email](gbmfortinho@gmail.com)  
 - [Portfólio / Blog (opcional)](https://gbmfortinho.com)
 </div>
