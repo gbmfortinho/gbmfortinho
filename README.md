@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center"> 
-<br/>
-<img  style="margin: 10px" src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=ffffff" width="100" height="100"/>
-<br/>
+<img  style="margin: 30px" src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=ffffff" width="100" height="100"/>
 </div>
 <div align="center">👨‍💻<i>BEM-VINDO... Olá! Eu sou GABRIEL BRUNO DE MELO  </i><br/>
 Analista de Sistemas | Desenvolvedor | Apaixonado por tecnologia e soluções eficientes
