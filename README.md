@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center"> 
 <img  style="margin: 30px" src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=ffffff" width="100" height="100"/>
 </div>
-<div align="center">👨‍💻<i>BEM-VINDO... Olá! Eu sou GABRIEL BRUNO DE MELO  </i>
+<div align="center">👨‍💻<i>BEM-VINDO...Eu sou GABRIEL BRUNO DE MELO  </i>
 <br/><br/>  
 Analista de Sistemas | Desenvolvedor | Apaixonado por tecnologia e soluções eficientes
 </div>
@@ -26,11 +26,11 @@ Analista de Sistemas | Desenvolvedor | Apaixonado por tecnologia e soluções ef
 <br/>
 <div align="center"> 
 🧰Tecnologias e Ferramentas<br/>
-💻 Linguagens: `Java`, `JavaScript`, `Python`
-🛠️ Ferramentas: `Git`, `Postman`, `Docker`, `Jira`, `Trello`
-⚙️ Bancos de Dados: `MySQL`, `SQL Server`
-🌐 Web: `HTML`, `CSS`, `React`, `Angular`
-📊 Análise: `UML`, `BPMN`, `Power BI`
+💻 Linguagens: JavaScript, Python
+🛠️ Ferramentas: Git, Trello
+⚙️ Bancos de Dados: MySQL, SQL Server
+🌐 Web: HTML, CSS, React, Angular
+📊 Análise: UML, BPMN, Power BI
 </div>
 <br/>
 <div align="center"> 
@@ -45,7 +45,7 @@ Analista de Sistemas | Desenvolvedor | Apaixonado por tecnologia e soluções ef
 <div align="center"> 
 📫Vamos nos conectar?<br/>
 - [Email](gbmfortinho@gmail.com)  
-- [Portfólio / Blog (opcional)](https://gbmfortinho.com)
+<!-- [Portfólio / Blog (opcional)](https://gbmfortinho.com)-->
 </div>
 <br/>
 <div align="center">
