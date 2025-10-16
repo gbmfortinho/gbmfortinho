@@ -34,20 +34,11 @@ Analista de Sistemas | Desenvolvedor | Apaixonado por tecnologia e soluções ef
 </div>
 <br/>
 <div align="center"> 
-📂Projetos em Destaque<br/>
-  🔹 [Sistema de Gestão de Chamados] – Solução completa para suporte técnico (Back-end em Java + Front em Angular)
-  🔹 [Dashboard de Indicadores] – Painel de controle com Power BI e integração com API
-  🔹 [Automação de Relatórios]
-   Acesse meus repositórios para ver mais projetos reais e estudos que venho desenvolvendo 🚀
-<br/>
-</div>
-<br/>
-<div align="center"> 
 📫Vamos nos conectar?<br/>
 - [Email](gbmfortinho@gmail.com)  
 <!-- [Portfólio / Blog (opcional)](https://gbmfortinho.com)-->
 </div>
 <br/>
 <div align="center">
-💡 “Sistemas eficientes não nascem por acaso. Eles são o resultado de uma boa análise, design inteligente e código limpo.”
+💡“Sistemas eficientes não nascem por acaso. Eles são o resultado de uma boa análise, design inteligente e código limpo.”
 </div>
