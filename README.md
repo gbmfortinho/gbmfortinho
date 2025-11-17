@@ -25,26 +25,26 @@ Here are some ideas to get you started:
 <br/>
 <div align="center"> 
 ## 🧰 Tecnologias & Ferramentas
-
+  <br/>
 💻 Linguagens: JavaScript
+  <br/>
 🛠️ Ferramentas: Git | Trello
+  <br/>
 ⚙️ Bancos de Dados: MySQL
+  <br/>
 🌐 Web: HTML | CSS | React | Angular
+  <br/>
 🤖 Testes Automatizados: Playwright
+  <br/>
 🎥 Criador de Conteúdo (Clipchamp)
+  <br/>
 📊 Métricas & Monitoramento: Google Analytics | Power BI
 </div>
 <br/>
-<div align="center"> 
-📫Vamos nos conectar?<br/>
-- [Email](gbmfortinho@gmail.com)  
-<!-- [Portfólio / Blog (opcional)](https://gbmfortinho.com)-->
-</div>
 <br/>
 <div align="center">
 💡“Sistemas eficientes não nascem por acaso. Eles são o resultado de uma boa análise, design inteligente e código limpo.”
 <br/>
-<h1 align="center">👨‍💻 Gabriel Bruno de Melo</h1>
 </div>
   
 <div align="center">
@@ -83,3 +83,8 @@ Here are some ideas to get you started:
 
 </div>
 
+<div align="center"> 
+📫Vamos nos conectar?<br/>
+- [Email](gbmfortinho@gmail.com)  
+<!-- [Portfólio / Blog (opcional)](https://gbmfortinho.com)-->
+</div>
