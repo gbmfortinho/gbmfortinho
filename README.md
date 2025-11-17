@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 <div align="center"> 
 ## 🧰 Tecnologias & Ferramentas
 
-### 💻 Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-🛠️ Ferramentas: Git, Trello
+💻 Linguagens: JavaScript
+🛠️ Ferramentas: Git | Trello
 ⚙️ Bancos de Dados: MySQL
-🌐 Web: HTML, CSS, React, Angular
-📊 Análise: Power BI
+🌐 Web: HTML | CSS | React | Angular
+🤖 Testes Automatizados: Playwright
+🎥 Criador de Conteúdo (Clipchamp)
+📊 Métricas & Monitoramento: Google Analytics | Power BI
 
   
 </div>
