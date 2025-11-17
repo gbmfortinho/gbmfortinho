@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <img src="https://playwright.dev/img/playwright-logo.svg" width="80" height="80"/>
 
 <!-- Análises -->
-<img src="https://www.svgrepo.com/show/353807/google-analytics.svg" width="80" height="80"/>
+<img src="https://www.svgrepo.com/svg/353804/google-analytics.svg" width="80" height="80"/>
 <img src="https://www.svgrepo.com/show/354427/power-bi.svg" width="80" height="80"/>
 
 <!-- Vídeo -->
