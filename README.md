@@ -27,15 +27,12 @@ Here are some ideas to get you started:
 🧰 Tecnologias & Ferramentas
   <br/><br/>
 💻 Linguagens: JavaScript
-  <br/><br/>
 🛠️ Ferramentas: Git | Trello
   <br/><br/>
 ⚙️ Bancos de Dados: MySQL
-  <br/><br/>
 🌐 Web: HTML | CSS | React | Angular
   <br/><br/>
 🤖 Testes Automatizados: Playwright
-  <br/><br/>
 🎥 Criador de Conteúdo (Clipchamp)
   <br/><br/>
 📊 Métricas & Monitoramento: Google Analytics | Power BI
