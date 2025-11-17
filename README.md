@@ -83,6 +83,6 @@ Here are some ideas to get you started:
 </div>
 <div align="center"> <br/>
 📫Vamos nos conectar?<br/><br/>
-- [Email](gbmfortinho@gmail.com)  
+Email | gbmfortinho@gmail.com  
 <!-- [Portfólio / Blog (opcional)](https://gbmfortinho.com)-->
 </div>
