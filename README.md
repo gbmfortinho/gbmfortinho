@@ -48,55 +48,26 @@ Here are some ideas to get you started:
 </div>
 <h1 align="center">👨‍💻 Gabriel Bruno de Melo</h1>
 <p align="center">
-  Analista de Sistemas | Desenvolvedor | Automação de Testes | Métricas
-</p>
-
+  
 ## 🧰 Tecnologias & Ferramentas
 
-### 💻 Linguagens
+###
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Web & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### 🤖 Automação & Testes
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-### 📊 Métricas & Análise
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🎥 Edição & Conteúdo
 ![Clipchamp](https://img.shields.io/badge/Clipchamp-7A4DFF?style=for-the-badge&logo=clipchamp&logoColor=white)
-
-### 🗄 Bancos de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### 🛠 Ferramentas
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-### 📐 Modelagem
 ![UML](https://img.shields.io/badge/UML-6A5ACD?style=for-the-badge)
 ![BPMN](https://img.shields.io/badge/BPMN-2F4F4F?style=for-the-badge)
 
----
-
-## 🧠 Frase que me motiva
-> “Sistemas eficientes nascem da combinação entre boa análise, design inteligente e código limpo.”
-
----
-
-## 📫 Contato
-📧 **Email:** gbmfortinho@gmail.com
-
----
-
-## ❓ Recomenda uma tecnologia!
-Estou sempre evoluindo. Qual tecnologia você acha que devo aprender e add ao GitHub? 🚀
+</p>
 
