@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <div align="center">
-💡“Sistemas eficientes não nascem por acaso. Eles são o resultado de uma boa análise, design inteligente e código limpo.”
+💡 “ Sistemas eficientes não nascem por acaso. Eles são o resultado de uma boa análise, design inteligente e código limpo. ”
 <br/><br/>
 </div>
   
