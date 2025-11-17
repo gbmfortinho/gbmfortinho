@@ -17,20 +17,24 @@ Here are some ideas to get you started:
 </div>
 <div align="center">👨‍💻<i>BEM-VINDO...Eu sou GABRIEL BRUNO DE MELO  </i>
 <br/><br/>  
-Analista de Sistemas | Desenvolvedor | Apaixonado por tecnologia e soluções eficientes
+🚀 Analista de Sistemas | 💻 Desenvolvedor | 🔍 Caçador de soluções inteligentes
 </div>
 <br/>
 <div align="center"> 
-🎯Sobre mim Tenho paixão por transformar requisitos complexos em soluções funcionais e escaláveis. Gosto de atuar desde a análise até a implementação, buscando sempre otimizar processos e agregar valor ao negócio.
-<br/></div>
+🎯Tenho paixão por transformar requisitos complexos em soluções funcionais, escaláveis e de alto impacto. Atuo desde a análise até a implementação, sempre buscando otimizar processos, melhorar a experiência do usuário e entregar valor real ao negócio.
 <br/>
 <div align="center"> 
-🧰Tecnologias e Ferramentas<br/>
-💻 Linguagens: JavaScript, Python
+🧰 Tecnologias e Ferramentas
+💻 Linguagens: JavaScript
+### 🛠 Ferramentas
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
 🛠️ Ferramentas: Git, Trello
-⚙️ Bancos de Dados: MySQL, SQL Server
+⚙️ Bancos de Dados: MySQL
 🌐 Web: HTML, CSS, React, Angular
-📊 Análise: UML, BPMN, Power BI
+📊 Análise: Power BI
+
+  
 </div>
 <br/>
 <div align="center"> 
