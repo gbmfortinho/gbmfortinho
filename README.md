@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- Linguagens -->
-<img src="https://icongr.am/devicon/javascript-original.svg?size=80" width="80" height="80"/>
+<img src="https://icongr.am/devicon/javascript-original.svg?size=80" width="60" height="60"/>
 <img src="https://icongr.am/devicon/python-original.svg?size=80" width="80" height="80"/>
 
 <!-- Web -->
