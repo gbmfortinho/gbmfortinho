@@ -24,8 +24,11 @@ Here are some ideas to get you started:
 🎯Tenho paixão por transformar requisitos complexos em soluções funcionais, escaláveis e de alto impacto. Atuo desde a análise até a implementação, sempre buscando otimizar processos, melhorar a experiência do usuário e entregar valor real ao negócio.
 <br/>
 <div align="center"> 
-🧰 Tecnologias e Ferramentas
-💻 Linguagens: JavaScript
+## 🧰 Tecnologias & Ferramentas
+
+### 💻 Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 🛠️ Ferramentas: Git, Trello
 ⚙️ Bancos de Dados: MySQL
 🌐 Web: HTML, CSS, React, Angular
@@ -47,13 +50,6 @@ Here are some ideas to get you started:
 <p align="center">
   Analista de Sistemas | Desenvolvedor | Automação de Testes | Métricas
 </p>
-
----
-
-## 🚀 Sobre mim
-Sou apaixonado por transformar requisitos complexos em soluções escaláveis, automatizadas e eficientes. Trabalho com desenvolvimento, testes, análises e criação de conteúdo técnico.
-
----
 
 ## 🧰 Tecnologias & Ferramentas
 
