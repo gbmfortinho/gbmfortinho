@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center"> 
 <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=ffffff"  width="80" height="80"/>
 </div>
-<div align="center">👨‍💻<i>BEM-VINDO...Eu sou GABRIEL BRUNO DE MELO  </i>
+<div align="center"><i>BEM-VINDO...Eu sou GABRIEL BRUNO DE MELO  </i>
 <br/><br/>  
 🚀 Analista de Sistemas | 💻 Desenvolvedor | 🔍 Caçador de soluções inteligentes
 </div>
