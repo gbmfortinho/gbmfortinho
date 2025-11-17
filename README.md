@@ -81,8 +81,7 @@ Here are some ideas to get you started:
 <img src="https://www.svgrepo.com/show/376366/bpmn.svg" width="80" height="80"/>
 -->
 </div>
-
-<div align="center"> <br/><br/>
+<div align="center"> <br/>
 📫Vamos nos conectar?<br/><br/>
 - [Email](gbmfortinho@gmail.com)  
 <!-- [Portfólio / Blog (opcional)](https://gbmfortinho.com)-->
