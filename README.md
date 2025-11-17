@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">👨‍💻<i>BEM-VINDO...Eu sou GABRIEL BRUNO DE MELO  </i>
 <br/><br/>  
-🚀 Analista de Sistemas | 💻 Desenvolvedor | 🤖 Automação | 📊 Métricas | 🔍 Caçador de soluções inteligentes
+🚀 Analista de Sistemas | 💻 Desenvolvedor | 🔍 Caçador de soluções inteligentes
 </div>
 <br/>
 <div align="center"> 
