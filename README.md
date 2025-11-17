@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 <img src="https://icongr.am/devicon/trello-plain.svg?size=80" width="80" height="80"/>
 
 <!-- Modelagem -->
+<img src="https://icongr.am/devicon/wordpress-original.svg?size=80&color=ffffff" width="80" height="60" />
 <!--<img src="https://www.svgrepo.com/show/448255/uml.svg" width="80" height="80"/>
 <img src="https://www.svgrepo.com/show/376366/bpmn.svg" width="80" height="80"/>
 -->
