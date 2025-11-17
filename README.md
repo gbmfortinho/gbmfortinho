@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center"> 
-<img src="https://icongr.am/devicon/github-original-wordmark.svg?size=148&color=ffffff"  width="80" height="80"&color={hex}/>
+<img src="https://icongr.am/devicon/github-original-wordmark.svg?size=80&color=000000" />
 </div>
 <div align="center"><i>BEM-VINDO...Eu sou GABRIEL BRUNO DE MELO  </i>
 <br/><br/>  
