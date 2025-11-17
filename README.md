@@ -71,3 +71,67 @@ Here are some ideas to get you started:
 
 </p>
 
+<div align="center">
+  <h1>👨‍💻 BEM-VINDO — Eu sou Gabriel Bruno de Melo</h1>
+  <p>🚀 Analista de Sistemas | 💻 Desenvolvedor | 🤖 Automação | 📊 Métricas</p>
+</div>
+
+---
+
+<div align="center">
+  🎯 Tenho paixão por transformar requisitos complexos em soluções funcionais, escaláveis e de alto impacto.
+</div>
+
+---
+
+## <div align="center">🧰 Tecnologias & Ferramentas</div>
+
+<div align="center">
+
+<!-- Linguagens -->
+<img src="https://icongr.am/devicon/javascript-original.svg?size=80" width="80" height="80"/>
+<img src="https://icongr.am/devicon/python-original.svg?size=80" width="80" height="80"/>
+
+<!-- Web -->
+<img src="https://icongr.am/devicon/html5-original.svg?size=80" width="80" height="80"/>
+<img src="https://icongr.am/devicon/css3-original.svg?size=80" width="80" height="80"/>
+<img src="https://icongr.am/devicon/react-original.svg?size=80" width="80" height="80"/>
+<img src="https://icongr.am/devicon/angularjs-original.svg?size=80" width="80" height="80"/>
+
+<!-- Testes -->
+<img src="https://playwright.dev/img/playwright-logo.svg" width="80" height="80"/>
+
+<!-- Análises -->
+<img src="https://www.svgrepo.com/show/353807/google-analytics.svg" width="80" height="80"/>
+<img src="https://www.svgrepo.com/show/354427/power-bi.svg" width="80" height="80"/>
+
+<!-- Vídeo -->
+<img src="https://www.svgrepo.com/show/452115/clipchamp.svg" width="80" height="80"/>
+
+<!-- Banco de Dados -->
+<img src="https://icongr.am/devicon/mysql-original.svg?size=80" width="80" height="80"/>
+<img src="https://icongr.am/devicon/microsoftsqlserver-plain.svg?size=80" width="80" height="80"/>
+
+<!-- Ferramentas -->
+<img src="https://icongr.am/devicon/git-original.svg?size=80" width="80" height="80"/>
+<img src="https://icongr.am/devicon/trello-plain.svg?size=80" width="80" height="80"/>
+
+<!-- Modelagem -->
+<img src="https://www.svgrepo.com/show/448255/uml.svg" width="80" height="80"/>
+<img src="https://www.svgrepo.com/show/376366/bpmn.svg" width="80" height="80"/>
+
+</div>
+
+---
+
+## <div align="center">📫 Vamos nos conectar?</div>
+
+<div align="center">
+📧 <a href="mailto:gbmfortinho@gmail.com">gbmfortinho@gmail.com</a>
+</div>
+
+---
+
+<div align="center">
+💡 “Sistemas eficientes não nascem por acaso. São fruto de boa análise, design inteligente e código limpo.”
+</div>
