@@ -13,17 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center"> 
-<img <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=80&color=ffffff" />
-  <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=80&color=ffffff" />
-<img src="https://icongr.am/devicon/javascript-original.svg?size=80&color=ffffff" />
-<img src="https://icongr.am/devicon/react-original.svg?size=80&color=ffffff" />
-<img src="https://icongr.am/devicon/html5-original.svg?size=80&color=ffffff" />
-<img src="https://icongr.am/devicon/css3-original.svg?size=80&color=ffffff" />
-<img src="https://icongr.am/devicon/nodejs-original.svg?size=80&color=ffffff" />
-<img src="https://icongr.am/devicon/python-original.svg?size=80&color=ffffff" />
-<img src="https://icongr.am/devicon/java-original.svg?size=80&color=ffffff" />
-<img src="https://icongr.am/devicon/angularjs-original.svg?size=80&color=ffffff" />
-<img src="https://icongr.am/devicon/vuejs-original.svg?size=80&color=ffffff" />
+<img <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=80" />
+
 </div>
 <div align="center"><i>BEM-VINDO...Eu sou GABRIEL BRUNO DE MELO  </i>
 <br/><br/>  
