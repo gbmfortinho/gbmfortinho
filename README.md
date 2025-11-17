@@ -61,10 +61,12 @@ Here are some ideas to get you started:
 <img src="https://playwright.dev/img/playwright-logo.svg" width="80" height="80"/>
 
 <!-- Análises -->
+<!--
 <img src="https://www.svgrepo.com/svg/353804/google-analytics.svg" width="80" height="80"/>
 <img src="https://www.svgrepo.com/show/354427/power-bi.svg" width="80" height="80"/>
 
 <!-- Vídeo -->
+<!--
 <img src="https://www.svgrepo.com/show/452115/clipchamp.svg" width="80" height="80"/>
 
 <!-- Banco de Dados -->
@@ -76,9 +78,9 @@ Here are some ideas to get you started:
 <img src="https://icongr.am/devicon/trello-plain.svg?size=80" width="80" height="80"/>
 
 <!-- Modelagem -->
-<img src="https://www.svgrepo.com/show/448255/uml.svg" width="80" height="80"/>
+<!--<img src="https://www.svgrepo.com/show/448255/uml.svg" width="80" height="80"/>
 <img src="https://www.svgrepo.com/show/376366/bpmn.svg" width="80" height="80"/>
-
+-->
 </div>
 
 <div align="center"> 
