@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">👨‍💻<i>BEM-VINDO...Eu sou GABRIEL BRUNO DE MELO  </i>
 <br/><br/>  
-🚀 Analista de Sistemas | 💻 Desenvolvedor | 🔍 Caçador de soluções inteligentes
+🚀 Analista de Sistemas | 💻 Desenvolvedor | 🤖 Automação | 📊 Métricas | 🔍 Caçador de soluções inteligentes
 </div>
 <br/>
 <div align="center"> 
@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 🤖 Testes Automatizados: Playwright
 🎥 Criador de Conteúdo (Clipchamp)
 📊 Métricas & Monitoramento: Google Analytics | Power BI
-
-  
 </div>
 <br/>
 <div align="center"> 
@@ -45,47 +43,10 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
 💡“Sistemas eficientes não nascem por acaso. Eles são o resultado de uma boa análise, design inteligente e código limpo.”
-</div>
+<br/>
 <h1 align="center">👨‍💻 Gabriel Bruno de Melo</h1>
-<p align="center">
+</div>
   
-## 🧰 Tecnologias & Ferramentas
-
-###
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Clipchamp](https://img.shields.io/badge/Clipchamp-7A4DFF?style=for-the-badge&logo=clipchamp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![UML](https://img.shields.io/badge/UML-6A5ACD?style=for-the-badge)
-![BPMN](https://img.shields.io/badge/BPMN-2F4F4F?style=for-the-badge)
-
-</p>
-
-<div align="center">
-  <h1>👨‍💻 BEM-VINDO — Eu sou Gabriel Bruno de Melo</h1>
-  <p>🚀 Analista de Sistemas | 💻 Desenvolvedor | 🤖 Automação | 📊 Métricas</p>
-</div>
-
----
-
-<div align="center">
-  🎯 Tenho paixão por transformar requisitos complexos em soluções funcionais, escaláveis e de alto impacto.
-</div>
-
----
-
-## <div align="center">🧰 Tecnologias & Ferramentas</div>
-
 <div align="center">
 
 <!-- Linguagens -->
@@ -122,16 +83,3 @@ Here are some ideas to get you started:
 
 </div>
 
----
-
-## <div align="center">📫 Vamos nos conectar?</div>
-
-<div align="center">
-📧 <a href="mailto:gbmfortinho@gmail.com">gbmfortinho@gmail.com</a>
-</div>
-
----
-
-<div align="center">
-💡 “Sistemas eficientes não nascem por acaso. São fruto de boa análise, design inteligente e código limpo.”
-</div>
