@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 <br/>
 <div align="center"> 
-🎯Tenho paixão por transformar requisitos complexos em soluções funcionais, escaláveis e de alto impacto. Atuo desde a análise até a implementação, sempre buscando otimizar processos, melhorar a experiência do usuário e entregar valor real ao negócio.
+🎯 Sou movido por transformar requisitos complexos em soluções funcionais, escaláveis e de alto impacto. Atuo desde a análise até a implementação, sempre buscando otimizar processos, melhorar a experiência do usuário e entregar valor real ao negócio.
 <br/>
 <div align="center"> 
   <br/>
