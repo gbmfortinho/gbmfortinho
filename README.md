@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 🎯Tenho paixão por transformar requisitos complexos em soluções funcionais, escaláveis e de alto impacto. Atuo desde a análise até a implementação, sempre buscando otimizar processos, melhorar a experiência do usuário e entregar valor real ao negócio.
 <br/>
 <div align="center"> 
-  <br/><br/>
+  <br/>
 🧰 Tecnologias & Ferramentas
   <br/><br/>
 💻 Linguagens: JavaScript
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
 💡“Sistemas eficientes não nascem por acaso. Eles são o resultado de uma boa análise, design inteligente e código limpo.”
-<br/>
+<br/><br/>
 </div>
   
 <div align="center">
