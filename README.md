@@ -71,7 +71,6 @@ Here are some ideas to get you started:
 
 <!-- Banco de Dados -->
 <img src="https://icongr.am/devicon/mysql-original.svg?size=80" width="80" height="80"/>
-<img src="https://icongr.am/devicon/microsoftsqlserver-plain.svg?size=80" width="80" height="80"/>
 
 <!-- Ferramentas -->
 <img src="https://icongr.am/devicon/git-original.svg?size=80" width="80" height="80"/>
